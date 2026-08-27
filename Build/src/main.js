@@ -4,7 +4,8 @@ import { UpdateNotification } from "@nellowtcs/updato/update-ui";
 // Keep
 const updater = Updato.init(
   {
-    repo: "NellowTCS/Web-Template",
+    repo: "NellowTCS/learnerportfolio",
+    // TODO: make "commit" mode
     mode: "version",
     current: "0.1.0",
   },

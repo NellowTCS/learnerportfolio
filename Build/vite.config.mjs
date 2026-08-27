@@ -34,33 +34,33 @@ export default defineConfig(({ mode }) => {
     plugins: [
       !isSingleFile &&
         VitePWA({
-          registerType: 'autoUpdate',
-          includeAssets: ['robots.txt'],
+          registerType: "autoUpdate",
+          includeAssets: ["robots.txt"],
           manifest: {
-            name: 'Web-Template',
-            short_name: 'Web-Template',
-            start_url: './',
-            display: 'standalone',
-            theme_color: '#00bfff',
-            background_color: '#00bfff',
+            name: "LearnerPortfolio",
+            short_name: "LearnerPortfolio",
+            start_url: "./",
+            display: "standalone",
+            theme_color: "#00bfff",
+            background_color: "#00bfff",
           },
           pwaAssets: {
-            image: 'public/favicon.png',
-            preset: 'minimal-2023',
+            image: "public/favicon.png",
+            preset: "minimal-2023",
             includeHtmlHeadLinks: true,
           },
           workbox: {
-            globPatterns: ['**/*.{js,css,html,png,ico,json}'],
+            globPatterns: ["**/*.{js,css,html,png,ico,json}"],
             runtimeCaching: [
               {
                 urlPattern: /.*\.(js|css|html)$/,
-                handler: 'NetworkFirst',
-                options: { cacheName: 'app-shell' },
+                handler: "NetworkFirst",
+                options: { cacheName: "app-shell" },
               },
               {
                 urlPattern: /.*\.(png|ico|json)$/,
-                handler: 'CacheFirst',
-                options: { cacheName: 'assets' },
+                handler: "CacheFirst",
+                options: { cacheName: "assets" },
               },
             ],
           },
