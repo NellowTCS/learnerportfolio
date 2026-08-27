@@ -1,0 +1,12 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getEntry, render } from "astro:content";
+
+const home = await getEntry("portfolio", "home");
+if (!home) throw new Error("Missing required content entry: portfolio/home");
+const { Content } = await render(home);
+---
+
+<Layout pageTitle="Home: IB English 11 Learner Portfolio">
+  <Content />
+</Layout>

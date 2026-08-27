@@ -1,0 +1,29 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { getCollection, render } from "astro:content";
+import type { CollectionEntry } from "astro:content";
+
+export async function getStaticPaths() {
+  const entries: CollectionEntry<"portfolio">[] =
+    await getCollection("portfolio");
+  return entries
+    .filter((entry) => entry.slug !== "home")
+    .map((entry) => ({
+      params: { slug: entry.slug },
+      props: { entry },
+    }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const siteName = "IB English 11 Learner Portfolio";
+---
+
+<Layout pageTitle={`${entry.data.title}: ${siteName}`}>
+  {
+    entry.data.description && (
+      <p class="page-description">{entry.data.description}</p>
+    )
+  }
+  <Content />
+</Layout>

@@ -1,0 +1,86 @@
+---
+import "../styles/global.css";
+import { pwaInfo } from "virtual:pwa-info";
+import { pwaAssetsHead } from "virtual:pwa-assets/head";
+import Nav from "../components/Nav.astro";
+import { buildNav } from "../lib/nav";
+
+interface Props {
+  pageTitle?: string;
+  description?: string;
+}
+
+const { pageTitle = "IB English 11 Learner Portfolio", description } =
+  Astro.props;
+const defaultDescription =
+  "My IB English 11 learner portfolio: notes, devices, and writing artifacts.";
+const nav = await buildNav();
+const base = import.meta.env.BASE_URL;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="description" content={description ?? defaultDescription} />
+    <link rel="icon" href={`${base}favicon.png`} type="image/png" />
+    {pwaAssetsHead?.themeColor && (
+      <meta name="theme-color" content={pwaAssetsHead.themeColor.content} />
+    )}
+    {pwaAssetsHead?.links.map((link) => <link {...link} />)}
+    {pwaInfo && <Fragment set:html={pwaInfo.webManifest.linkTag} />}
+    <title>{pageTitle}</title>
+  </head>
+  <body>
+    <div class="shell">
+      <header class="site-header">
+        <button
+          id="nav-toggle"
+          class="nav-toggle"
+          type="button"
+          aria-expanded="false"
+          aria-controls="site-nav"
+        >
+          <span class="nav-toggle-bar" aria-hidden="true"></span>
+          <span class="nav-toggle-bar" aria-hidden="true"></span>
+          <span class="nav-toggle-bar" aria-hidden="true"></span>
+          <span class="sr-only">Toggle navigation</span>
+        </button>
+        <a class="brand" href={base}>
+          <span class="brand-title">IB English 11</span>
+          <span class="brand-subtitle">Learner Portfolio</span>
+        </a>
+      </header>
+
+      <div class="layout">
+        <aside id="site-nav" class="site-nav">
+          <nav aria-label="Portfolio sections">
+            <ul class="nav-list">
+              <Nav nodes={nav} currentPath={Astro.url.pathname} />
+            </ul>
+          </nav>
+        </aside>
+        <div id="nav-overlay" class="nav-overlay" hidden></div>
+        <main class="content">
+          <article class="prose">
+            <slot />
+          </article>
+        </main>
+      </div>
+
+      <footer class="site-footer">
+        <p>IB English 11 Learner Portfolio</p>
+      </footer>
+    </div>
+
+    <script>
+      import "../scripts/site.ts";
+      import { registerSW } from "virtual:pwa-register";
+      registerSW({ immediate: true });
+    </script>
+    <script>
+      import "../scripts/updater.ts";
+    </script>
+  </body>
+</html>
