@@ -17,3 +17,9 @@ device, record:
 | Device | Definition | Example | Effect |
 | ------ | ---------- | ------- | ------ |
 |        |            |         |        |
+
+## Classroom resources
+
+- [Tone Cheat Sheet](https://docs.google.com/document/d/1GGQ6HN1jka7Vf_Kb21VJiZxi0DnOguQbIJKPZHN3MB0/edit)
+- [Focusing on a global issue](https://docs.google.com/document/d/1y6DLq6QkY_xi0jHnTdTpafbM_U37BcE4FzTgDxmI1K4/edit)
+- [Rhetorical Triangle Blank Handout](https://drive.google.com/file/d/1Coa0fDSJEMTu-mPnbJ2nZ68BpsMvxhM6/view)
