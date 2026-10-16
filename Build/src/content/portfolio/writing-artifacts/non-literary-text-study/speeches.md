@@ -6,7 +6,12 @@ order: 100
 
 # Speeches
 
-Add my analysis of a speech here.
+Speeches are designed for an audience that hears language in time. I will
+analyze repetition, rhythm, direct address, appeals, pauses, and the
+relationship between the speaker's authority and the audience's expectations.
+
+The conclusion should explain how delivery and structure make the speech's
+purpose more persuasive.
 
 Consider the speaker, occasion, audience, and the rhetorical appeals and
 devices employed.

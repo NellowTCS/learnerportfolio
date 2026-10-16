@@ -15,6 +15,7 @@ structure becomes the navigation.
 ```txt
 src/content/portfolio/
 ├── home.md                          # the Home page
+├── midterm-learner-portfolio-check.md # midterm requirements checklist
 ├── major-works/
 │   ├── index.md                     # section landing page
 │   ├── slaughterhouse-five.md

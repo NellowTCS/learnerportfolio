@@ -7,7 +7,8 @@ order: 50
 # Non-Literary Text Study
 
 This section gathers my analyses of non-literary texts, organized by text
-type. Pick a text type from the sidebar to add my analysis of an example.
+type. Each page uses the same basic method but adapts it to the conventions of
+the chosen form.
 
 For each text, I try to cover:
 
@@ -15,3 +16,7 @@ For each text, I try to cover:
 - how the text type shapes its conventions and effects
 - rhetorical/literary devices and their impact
 - my personal response
+
+The central question is how the text's form helps it communicate. A headline,
+caption, frame, color, hyperlink, or sound can carry meaning in the same way
+that a word can. I therefore describe the feature before naming its effect.

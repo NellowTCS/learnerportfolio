@@ -6,16 +6,27 @@ order: 50
 
 # Notes on Rhetorical Analysis
 
-Write my notes on rhetorical analysis here: how to analyze speeches,
-advertisements, editorials, and other non-literary texts.
+Rhetorical analysis explains how a non-literary text makes an argument. The
+first step is to identify the rhetorical situation: speaker, audience,
+message, context, and purpose. The second step is to explain how the text's
+choices respond to that situation.
 
-Include:
+Ethos, pathos, and logos describe appeals to credibility, emotion, and
+reasoning. They are not substitutes for analysis. I need to show where an
+appeal appears, what language or visual choice creates it, and how the intended
+audience is likely to respond.
 
-- the rhetorical situation (speaker, audience, message, context, purpose)
-- ethos, pathos, and logos
-- rhetorical devices and their effects
-- how to structure a rhetorical analysis
-- SOAPSTone or similar frameworks
+## Paragraph method
+
+1. **Point:** state the choice and the part of the argument it supports.
+2. **Evidence:** identify a specific word, image, structure, or design feature.
+3. **Technique:** name the relevant device only when the name clarifies the
+   explanation.
+4. **Analysis:** explain the reader effect and connect it to purpose.
+5. **Link:** return to the text's larger message or rhetorical situation.
+
+This method keeps a paragraph from becoming a device list. The main question
+is always how the choice helps the text communicate with its audience.
 
 ## Classroom handouts
 
@@ -30,3 +41,8 @@ Include:
 - [Rhetorical Analysis Thesis Statements](https://docs.google.com/presentation/d/1NQ9WHMMhLC5eq3PbfRLgoeTw-GLJ43Tgmn0ObQ89pyc/edit)
 - [PETAL Paragraph Strategy](https://docs.google.com/document/d/1fniy_lVYPA0e560Xyr0tyXHiyu5L5UTAOEUmoqOC5B8/edit)
 - [Top 100 Analytical Verbs](https://docs.google.com/document/d/1xiypE83t4EL-1kXKlrlvAKbb4w9camk_BVs-zIBa1Bg/edit)
+- [Summer reading, thesis, and PETAL practice: Agenda #5](https://docs.google.com/presentation/d/1oG3ABIrSSv8h0VW9wHd03fFOP_g638-lttOZXhgSqxw/edit)
+
+The Agenda #5 deck confirms that summer-reading practice, formal thesis
+statements, and PETAL paragraphs were assigned. It is evidence of the task,
+not a substitute for Neel's completed paragraph and thesis.

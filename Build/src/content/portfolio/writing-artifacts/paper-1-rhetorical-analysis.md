@@ -12,3 +12,11 @@ order: 10
 - [Sample Paper 1 commentary](https://drive.google.com/file/d/1mZGO1OJ3opUbIq6AHw930zWggbPJD4TZ/view)
 - [PETAL Paragraph Strategy](https://docs.google.com/document/d/1fniy_lVYPA0e560Xyr0tyXHiyu5L5UTAOEUmoqOC5B8/edit)
 - [Rhetorical Analysis Thesis Statements](https://docs.google.com/presentation/d/1NQ9WHMMhLC5eq3PbfRLgoeTw-GLJ43Tgmn0ObQ89pyc/edit)
+- [Summer reading, thesis, and PETAL practice: Agenda #5](https://docs.google.com/presentation/d/1oG3ABIrSSv8h0VW9wHd03fFOP_g638-lttOZXhgSqxw/edit)
+- [Paper 1 Term 1 assignment: Agenda #11](https://docs.google.com/presentation/d/1GlBuW8t5oQYEMAIj_JMhy4iJD3mOOjgShSQOSvffuVw/edit)
+- [Paper 1 Term 1 writing and formatting: Agenda #13](https://docs.google.com/presentation/d/1LTt4i0Vj5SRkofvsUIfQJMruubv_P2SkIFSCZLOvCO8/edit)
+
+The agenda decks establish the practice and Term 1 assignment requirements.
+The completed summer-reading paragraph, thesis, and Term 1 excerpt still need
+to be linked from Neel's submitted work rather than inferred from the
+assignment instructions.

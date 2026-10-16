@@ -6,12 +6,22 @@ order: 40
 
 # Notes on Literary Analysis
 
-Write my notes on how to analyze literature here: craft, structure, style,
-theme, and how writers use devices to create meaning.
+Literary analysis explains how a writer's choices create meaning. A theme is
+not enough by itself; I need to show how language, structure, point of view,
+imagery, and characterization develop that theme.
 
-Include:
+## Close reading process
 
-- close reading strategies
-- how to build a thesis
-- how to structure a literary analysis paragraph
-- practice analyses of short passages
+1. Read the passage once for its situation and second time for patterns.
+2. Mark repeated words, contrasts, shifts in tone, and unusual details.
+3. Ask what changes between the beginning and end of the passage.
+4. Connect the pattern to the work's larger concerns and context.
+5. Write a claim that explains both the choice and its significance.
+
+## Paragraph structure
+
+A strong paragraph makes one arguable point, presents short evidence, names
+the relevant choice, and explains its effect. The explanation should answer
+why the choice matters to the character, reader, work, or historical context.
+This is the same movement used in the Portable Magic notes: observation,
+technique, purpose, and significance.

@@ -4,14 +4,77 @@ description: Bio and reflection.
 order: 0
 ---
 
-# My Portfolio
+# Neel Jaiswal's Portfolio
 
 ## IB Language and Literature
 
-> My name, a short biography about who I am, and a fun picture go here.
->
-> To add a picture, drop an image into `public/` or `src/assets/` and reference
-> it like `![me](/learnerportfolio/me.png)`.
+![Neel Jaiswal](/learnerportfolio/img-1011.jpg)
+
+I am **Neel Jaiswal**, and I also use the name **NellowTCS** online. I am a
+nerd, bookworm, coder, and reader. I like making things, taking them apart,
+and figuring out why they work. I also like reading because books can change
+the way people understand an idea, a person, or the world around them.
+
+This portfolio collects my IB English work. It shows how I practice close
+reading, rhetorical analysis, and writing about the choices authors make. My
+goal is to explain not only what a text says, but also how it creates meaning
+and affects its readers.
+
+I build software for similar reasons. A program, like a written text, is made
+of many choices. Its structure, design, and purpose affect how people use it.
+My public projects include browser tools, developer utilities, embedded-device
+experiments, open-source libraries, and games. I usually start with a question
+and end with something that can be tested, changed, or used.
+
+### Find me online
+
+- [GitHub: NellowTCS](https://github.com/NellowTCS) — code, experiments, and
+  open-source projects
+- [GitLab: NellowTCS](https://gitlab.com/NellowTCS) — additional repositories
+- [Personal site: nellowtcs.me](https://nellowtcs.me/) — writing and design
+
+### Selected projects
+
+- [Learner Portfolio](https://github.com/NellowTCS/learnerportfolio) — the
+  site that holds this work
+- [Updato](https://github.com/NellowTCS/updato) — the update system used by this
+  portfolio
+- [Saikuro](https://github.com/NellowTCS/Saikuro) — a way for programs written
+  in different languages to communicate
+- [TactileBrowser](https://github.com/NellowTCS/TactileBrowser) — an
+  experimental browser for ESP32 and ESP32-S3 devices
+- [HTMLPlayer](https://github.com/NellowTCS/HTMLPlayer) — an offline music
+  player that works in the browser
+- [Obsidian-AutoLink](https://github.com/NellowTCS/Obsidian-AutoLink) — a tool
+  for creating backlinks between notes
+- [TeleporterDash](https://github.com/NellowTCS/TeleporterDash) — a platform
+  game with teleportation mechanics and a level creator
+
+### More projects
+
+- [vite-plugin-seo-meta](https://github.com/NellowTCS/vite-plugin-seo-meta) —
+  metadata for Vite applications
+- [Mesh-NOW](https://github.com/NellowTCS/Mesh-NOW) — a mesh network using
+  ESP-NOW
+- [Tamaru](https://github.com/NellowTCS/Tamaru) — a trackball experiment
+- [pyComputer](https://github.com/NellowTCS/pyComputer) — a text-based computer
+  written in Python
+- [lexepub](https://github.com/NellowTCS/lexepub) — a Rust library for parsing
+  EPUB files
+- [OpenTabSync](https://github.com/NellowTCS/OpenTabSync) — a cross-browser tab
+  group synchronization extension
+- [UTAU.js](https://github.com/NellowTCS/UTAU.js) — a browser-based singing
+  synthesizer
+- [HonzoReader](https://github.com/NellowTCS/HonzoReader) — an eBook reader
+  for PocketMage
+- [Tactility](https://github.com/NellowTCS/Tactility) — an operating system
+  project for ESP32 devices
+- [mandown](https://github.com/NellowTCS/mandown) — a document and comic
+  conversion tool
+
+This is a work in progress. I am using this portfolio to become a more precise
+reader, a more intentional writer, and a better communicator of both literary
+and technical ideas.
 
 ## Portfolio Resources
 
@@ -34,7 +97,6 @@ order: 0
 
 ## Reflection
 
-*To be written at the end of Year 1.*
-
-Put my self-reflection essay here: what I learned, how I grew as a
-reader, writer, speaker, and thinker, and where I hope to go next.
+The full Year 1 reflection will be added after I have enough work to compare.
+It should explain what changed in my reading, writing, speaking, and thinking,
+using specific artifacts as evidence instead of only describing improvement.
