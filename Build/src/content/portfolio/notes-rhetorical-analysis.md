@@ -42,7 +42,5 @@ is always how the choice helps the text communicate with its audience.
 - [PETAL Paragraph Strategy](https://docs.google.com/document/d/1fniy_lVYPA0e560Xyr0tyXHiyu5L5UTAOEUmoqOC5B8/edit)
 - [Top 100 Analytical Verbs](https://docs.google.com/document/d/1xiypE83t4EL-1kXKlrlvAKbb4w9camk_BVs-zIBa1Bg/edit)
 - [Summer reading, thesis, and PETAL practice: Agenda #5](https://docs.google.com/presentation/d/1oG3ABIrSSv8h0VW9wHd03fFOP_g638-lttOZXhgSqxw/edit)
-
-The Agenda #5 deck confirms that summer-reading practice, formal thesis
-statements, and PETAL paragraphs were assigned. It is evidence of the task,
-not a substitute for Neel's completed paragraph and thesis.
+- [IB Guys video (Reader Effect)](https://www.youtube.com/watch?v=CDiaw2_vEKQ)
+- [Reader Effect handout](https://docs.google.com/document/d/1PfKNeP6Fo3HOeWEr6fHhvXWcD7yWcxsmxImoO-bLyJ0/edit)
