@@ -17,6 +17,12 @@ order: 10
 - [Paper 1 Term 1 writing and formatting: Agenda #13](https://docs.google.com/presentation/d/1LTt4i0Vj5SRkofvsUIfQJMruubv_P2SkIFSCZLOvCO8/edit)
 
 The agenda decks establish the practice and Term 1 assignment requirements.
-The completed summer-reading paragraph, thesis, and Term 1 excerpt still need
-to be linked from Neel's submitted work rather than inferred from the
-assignment instructions.
+
+- [Completed PETAL paragraph: "Portable Magic"](../../classroom/Neel%20Jaiswal-%20Practice%20PEAL.pdf)
+- [Completed Diagnostic Paper 1: AYO blog review](../../classroom/Neel%20Jaiswal%20-%20Diagnostic.pdf)
+
+The PETAL paragraph and the Diagnostic Paper 1 are attached below.
+
+<iframe src="../../classroom/Neel%20Jaiswal-%20Practice%20PEAL.pdf" title="Portable Magic PETAL paragraph" width="100%" height="900" type="application/pdf"></iframe>
+
+<iframe src="../../classroom/Neel%20Jaiswal%20-%20Diagnostic.pdf" title="Diagnostic Paper 1: AYO blog review" width="100%" height="1200" type="application/pdf"></iframe>

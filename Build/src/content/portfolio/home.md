@@ -69,8 +69,6 @@ and end with something that can be tested, changed, or used.
   for PocketMage
 - [Tactility](https://github.com/NellowTCS/Tactility) — an operating system
   project for ESP32 devices
-- [mandown](https://github.com/NellowTCS/mandown) — a document and comic
-  conversion tool
 
 This is a work in progress. I am using this portfolio to become a more precise
 reader, a more intentional writer, and a better communicator of both literary
