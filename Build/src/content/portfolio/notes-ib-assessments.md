@@ -15,8 +15,8 @@ evidence, and explain how the evidence creates meaning.
 - Individual Oral (IO)
 - HL Essay (HL only)
 
-For each assessment, I record the format, time allowed, assessment criteria,
-and strategies that make the response precise.
+For each assessment I record the format, time allowed, assessment criteria, and
+strategies that make the response precise.
 
 ## My assessment notes
 

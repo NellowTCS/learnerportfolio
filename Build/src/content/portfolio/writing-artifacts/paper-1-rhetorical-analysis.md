@@ -26,3 +26,9 @@ The PETAL paragraph and the Diagnostic Paper 1 are attached below.
 <iframe src="../../classroom/Neel%20Jaiswal-%20Practice%20PEAL.pdf" title="Portable Magic PETAL paragraph" width="100%" height="900" type="application/pdf"></iframe>
 
 <iframe src="../../classroom/Neel%20Jaiswal%20-%20Diagnostic.pdf" title="Diagnostic Paper 1: AYO blog review" width="100%" height="1200" type="application/pdf"></iframe>
+
+## Where I am
+
+The Diagnostic is a review of an AYO concert blog by Caitlin Annesley. I worked
+through hyperbole, imagery, and juxtaposition, and the teacher marked it up in
+the margins. The PETAL paragraph on Portable Magic is done.

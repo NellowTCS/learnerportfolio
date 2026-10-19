@@ -7,9 +7,10 @@ order: 20
 # Notes: List of Devices
 
 Devices matter because they are choices, not because they are labels. I record
-each device with enough context to explain what it does in the text.
+each device with enough context to explain what it does in the text, not just
+what it is called.
 
-For each device, record:
+For each device I want:
 
 - the name
 - a definition in my own words
@@ -20,12 +21,12 @@ For each device, record:
 | ------ | ---------- | ------- | ------ |
 | Imagery | Language that creates a sensory picture. | A description of touch, sound, smell, sight, or taste. | Makes an abstract idea more immediate and shapes the reader's response. |
 | Juxtaposition | Placing contrasting ideas or images together. | A contrast between physical form and ideology. | Makes a difference visible and encourages comparison. |
-| Hyperbole | Deliberate exaggeration. | “All books are really self-help books.” | Emphasizes an argument by making the claim difficult to ignore. |
+| Hyperbole | Deliberate exaggeration. | "All books are really self-help books." | Emphasizes an argument by making the claim difficult to ignore. |
 | Personification | Giving human qualities to something nonhuman. | A book is described as gaining meaning through readers. | Presents an object or idea as active and significant. |
 | Parallelism | Repeating a grammatical structure. | Repeated phrases with the same sentence pattern. | Creates rhythm and gives related ideas equal emphasis. |
 
 The effect column is provisional until I connect the device to a specific
-audience, purpose, and context.
+audience, purpose, and context. A device without a context is just vocabulary.
 
 ## Imagery
 
@@ -40,9 +41,9 @@ three steps:
    reader's likely response.
 
 For example, descriptions of smoke, laughter, sound, or color in *The Great
-Gatsby* do more than make the party visible. They create an atmosphere that
-can make wealth seem attractive while also exposing its artificiality. The
-sensory detail gives the larger judgment a concrete emotional form.
+Gatsby* do more than make the party visible. They create an atmosphere that can
+make wealth seem attractive while also exposing its artificiality. The sensory
+detail gives the larger judgment a concrete emotional form.
 
 ## Classroom resources
 

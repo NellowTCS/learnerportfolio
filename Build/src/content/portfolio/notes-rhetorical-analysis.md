@@ -45,8 +45,8 @@ is always how the choice helps the text communicate with its audience.
 - [IB Guys video (Reader Effect)](https://www.youtube.com/watch?v=CDiaw2_vEKQ)
 - [Reader Effect handout](https://docs.google.com/document/d/1PfKNeP6Fo3HOeWEr6fHhvXWcD7yWcxsmxImoO-bLyJ0/edit)
 
-The completed PETAL paragraph on *Portable Magic* is attached below. It
-argues that Smith's emphasis on materiality means books shape meaning through
-their physical form, not just their words.
+The completed PETAL paragraph on *Portable Magic* is attached below. It argues
+that Smith's emphasis on materiality means books shape meaning through their
+physical form, not just their words.
 
 <iframe src="../classroom/Neel%20Jaiswal-%20Practice%20PEAL.pdf" title="Portable Magic PETAL paragraph" width="100%" height="900" type="application/pdf"></iframe>

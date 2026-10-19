@@ -12,7 +12,7 @@ imagery, and characterization develop that theme.
 
 ## Close reading process
 
-1. Read the passage once for its situation and second time for patterns.
+1. Read the passage once for its situation and a second time for patterns.
 2. Mark repeated words, contrasts, shifts in tone, and unusual details.
 3. Ask what changes between the beginning and end of the passage.
 4. Connect the pattern to the work's larger concerns and context.
