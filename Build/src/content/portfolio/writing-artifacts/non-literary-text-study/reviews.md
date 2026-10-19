@@ -15,3 +15,9 @@ qualification, or apparent fairness.
 
 Consider the reviewer's evaluation, the evidence used, tone, and target
 audience.
+
+## Where I am
+
+No review analysis written yet. The Diagnostic Paper 1 was a review of an AYO
+concert, so I have already done one of these without realizing it. That is the
+text type I would start with if I wanted to fill this page quickly.

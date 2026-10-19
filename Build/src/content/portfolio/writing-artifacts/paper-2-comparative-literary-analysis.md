@@ -6,9 +6,9 @@ order: 20
 
 # Paper 2: Comparative Literary Analysis
 
-This page will compare two literary works through a shared line of inquiry.
-The comparison should explain how each work handles the idea and why the
-difference matters.
+This page will compare two literary works through a shared line of inquiry. The
+comparison should explain how each work handles the idea and why the difference
+matters.
 
 The completed Paper 2 response will be added here when it is available. Until
 then, this page records the structure I will use to plan and revise it.
@@ -20,4 +20,9 @@ then, this page records the structure I will use to plan and revise it.
 - use specific evidence from both works
 - explain how form, context, and authorial choices shape each result
 - reflect on feedback and identify the next revision
-received.
+
+## What I need
+
+The two works and the line of inquiry are not decided yet. I will pick them
+once I have read both closely enough to know where they actually disagree.
+A comparison that only shows similarity is a summary, not an argument.

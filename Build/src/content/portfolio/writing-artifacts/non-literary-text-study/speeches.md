@@ -15,3 +15,7 @@ purpose more persuasive.
 
 Consider the speaker, occasion, audience, and the rhetorical appeals and
 devices employed.
+
+## Where I am
+
+No speech analysis written yet.

@@ -8,7 +8,8 @@ order: 40
 
 An oral analysis should sound prepared without sounding memorized. I need to
 make a clear claim, guide the listener through the evidence, and explain why
-the authorial choices matter.
+the authorial choices matter. The hardest part is making it sound like a
+conversation instead of a reading from a script.
 
 ## Working materials
 
@@ -24,3 +25,7 @@ the authorial choices matter.
 - analyze words, images, structure, and shifts in detail
 - connect each observation to the global issue
 - use transitions that make the line of reasoning easy to follow
+
+## Where I am
+
+I have not recorded a practice talk yet.

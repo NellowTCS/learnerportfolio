@@ -15,3 +15,7 @@ the writer's viewpoint still determines what is included and omitted.
 
 Consider the intimate voice, the intended reader, and how the form creates
 authenticity.
+
+## Where I am
+
+No diary or letter analysis written yet.

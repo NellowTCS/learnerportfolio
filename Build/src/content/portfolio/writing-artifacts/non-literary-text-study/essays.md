@@ -16,7 +16,11 @@ structure makes the reader understand.
 
 ## Class essay sequence
 
-- [Brent Staples, “Black Men and Public Space”: Agendas #8-9](https://docs.google.com/presentation/d/18lzRI7f5bWnyOedXYy6lmI8LfhOLyvbAFvG6dL1t4yY/edit)
-- [Amy Tan, “Mother Tongue”: Agenda #10](https://docs.google.com/presentation/d/1EsR1zUE4Tj0jsPjjKOHjdlMRVYtvfbtamWjZy3ceawE/edit)
-- [Firoozeh Dumas, “The F Word”: Agenda #10](https://docs.google.com/presentation/d/1EsR1zUE4Tj0jsPjjKOHjdlMRVYtvfbtamWjZy3ceawE/edit)
-- [Joan Didion, “On Self-Respect”: Agenda #12](https://docs.google.com/presentation/d/1InA-sZTmAUPmG3tqjCbQcyZhS-OARc4S8qAn2dCgpP4/edit)
+- [Brent Staples, "Black Men and Public Space": Agendas #8-9](https://docs.google.com/presentation/d/18lzRI7f5bWnyOedXYy6lmI8LfhOLyvbAFvG6dL1t4yY/edit)
+- [Amy Tan, "Mother Tongue": Agenda #10](https://docs.google.com/presentation/d/1EsR1zUE4Tj0jsPjjKOHjdlMRVYtvfbtamWjZy3ceawE/edit)
+- [Firoozeh Dumas, "The F Word": Agenda #10](https://docs.google.com/presentation/d/1EsR1zUE4Tj0jsPjjKOHjdlMRVYtvfbtamWjZy3ceawE/edit)
+- [Joan Didion, "On Self-Respect": Agenda #12](https://docs.google.com/presentation/d/1InA-sZTmAUPmG3tqjCbQcyZhS-OARc4S8qAn2dCgpP4/edit)
+
+## Where I am
+
+I have read all four and worked through them in class. 

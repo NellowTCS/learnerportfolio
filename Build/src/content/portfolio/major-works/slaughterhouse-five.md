@@ -22,10 +22,11 @@ through time prevents the story from presenting violence as a simple sequence
 with a clean resolution. Instead, the structure shows how memory can return
 without following ordinary chronology.
 
-The repeated phrase “So it goes” creates a controlled, almost mechanical
+The repeated phrase "So it goes" creates a controlled, almost mechanical
 response to death. Its repetition can sound accepting, numb, or critical,
 depending on the surrounding event. This is why the phrase should be analyzed
-in context rather than treated as a single definition.
+in context rather than treated as a single definition. It means something
+different next to a dead soldier than it does next to a dead dog.
 
 For future notes, I am organizing passages by:
 

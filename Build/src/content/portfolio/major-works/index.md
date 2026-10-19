@@ -8,7 +8,7 @@ order: 10
 
 This section holds my in-depth studies of the major works read this year.
 
-Use the sidebar to open a page for each book. For every work, keep notes on:
+Use the sidebar to open a page for each book. For every work I keep notes on:
 
 - plot and structure
 - characters and character relationships

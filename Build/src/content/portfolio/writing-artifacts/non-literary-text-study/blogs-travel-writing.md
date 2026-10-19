@@ -12,4 +12,10 @@ organization, and the assumptions the writer makes about the place and
 audience.
 
 The important question is not only what location is described, but how the
-writer's perspective shapes what the reader is allowed to notice.
+writer's perspective shapes what the reader is allowed to notice. A travel
+piece is never a photograph. It is a set of choices about what to look at and
+what to leave out.
+
+## Where I am
+
+Nothing written here yet.

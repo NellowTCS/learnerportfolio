@@ -10,7 +10,7 @@ This section gathers my analyses of non-literary texts, organized by text
 type. Each page uses the same basic method but adapts it to the conventions of
 the chosen form.
 
-For each text, I try to cover:
+For each text I try to cover:
 
 - the rhetorical situation (speaker, audience, message, context, purpose)
 - how the text type shapes its conventions and effects

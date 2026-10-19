@@ -16,3 +16,7 @@ the position appear reasonable or urgent.
 
 Identify the claim, the line of argument, and the rhetorical strategies used to
 win over the audience.
+
+## Where I am
+
+No commentary or editorial analysis written yet.

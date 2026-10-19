@@ -15,3 +15,9 @@ and opening establish the article's priorities.
 
 Consider the angle, the selection of facts, bias, and the effect on the
 reader's understanding of events.
+
+## Where I am
+
+No world news analysis written yet. News is the text type I consume the most,
+which is exactly why it is the one I should be careful about. I read it every
+day and still have to be talked into looking at how it is put together.
